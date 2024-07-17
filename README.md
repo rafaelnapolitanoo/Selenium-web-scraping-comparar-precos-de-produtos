@@ -31,20 +31,20 @@ npm install
 ## Funcionalidades
  Liste as principais funcionalidades do projeto:
 
--Obtenção rápida de uma tabela com preços de produtos em diferentes sites.
--Comparação de preços de produtos usando parâmetros estabelecidos.
--Envio de tabela de preços por e-mail com links dos produtos.
--Facilidade na pesquisa e comparação de produtos.
--Avaliação de concorrências e promoções de um mesmo produto.
+- Obtenção rápida de uma tabela com preços de produtos em diferentes sites.
+- Comparação de preços de produtos usando parâmetros estabelecidos.
+- Envio de tabela de preços por e-mail com links dos produtos.
+- Facilidade na pesquisa e comparação de produtos.
+- Avaliação de concorrências e promoções de um mesmo produto.
   
 ## Tecnologias
 Lista das principais tecnologias usadas no projeto:
 
--Python
--Selenium (para web scraping)
--Pandas (para manipulação e limpeza de dados)
--Excel (para entrada de dados)
--SMTP (para envio de e-mails)
+- Python
+- Selenium (para web scraping)
+- Pandas (para manipulação e limpeza de dados)
+- Excel (para entrada de dados)
+- SMTP (para envio de e-mails)
   
 ## Contribuição
 Como outros desenvolvedores podem contribuir para o projeto, exemplo:
